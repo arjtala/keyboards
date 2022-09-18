@@ -12,6 +12,7 @@ The [ferris](https://github.com/pierrechevalier83/ferris)
 
 ## Layout
 ![layout](layout.png | width=250)
+<img src="./layout.png" width=50% height=50%>
 
 ## Writing layout to the board
 
