@@ -11,7 +11,6 @@ The [ferris](https://github.com/pierrechevalier83/ferris)
 [Configerator](https://config.qmk.fm/#/ferris/0_2/compact/LAYOUT_split_3x5_2)
 
 ## Layout
-![layout](layout.png | width=250)
 <img src="./layout.png" width=50% height=50%>
 
 ## Writing layout to the board
