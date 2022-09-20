@@ -21,7 +21,10 @@ The [ferris](https://github.com/pierrechevalier83/ferris) is a 4-key split keybo
 
 ## Writing layout to the board
 
-Replace variables
+Replace the following variables in the `build.sh` script:
+* `QMK_FIRMWARE_DIR`: location of the QMK source
+* `LAYOUT`: name for your layout
+* `LAYOUT_FILE`: filename of your JSON layout
 
 ### Build
 
