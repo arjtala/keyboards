@@ -17,7 +17,7 @@ The [ferris](https://github.com/pierrechevalier83/ferris) is a 4-key split keybo
 [Configerator](https://config.qmk.fm/#/ferris/0_2/compact/LAYOUT_split_3x5_2)
 
 ## Layout
-<img src="./layout.png" width=50% height=50%>
+<img src="images/ferris_layout.png" width=50% height=50%>
 
 ## Writing layout to the board
 
